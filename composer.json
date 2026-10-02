@@ -1,0 +1,19 @@
+{
+    "name": "elie/volt-notify",
+    "description": "Headless notification dispatcher engine",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elie-Mugisha",
+            "email": "iradukunda2k26@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
